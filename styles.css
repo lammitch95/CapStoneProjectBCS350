@@ -1,0 +1,47 @@
+/*I certify that this submission is my own original work. Your name and RAM ID:  ___Mitchell Lam(R02050124)___ 
+  Documentation:
+  style sheet for webpage
+*/
+
+*{
+  font-family: arial;
+}
+h1{
+  color: black;
+}
+
+body{
+  margin-top: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  row-gap: 1rem;
+}
+
+
+.css_form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.submitBtn{
+  width: 100%;
+  padding: .45rem;
+  height: 100%;
+  background-color: rgb(43, 156, 255);
+  color: white;
+  border-color: none;
+  border-width: 0;
+
+}
+
+table{
+  border-spacing: 20px;
+  border-collapse: separate;
+  border-width: none;
+}
