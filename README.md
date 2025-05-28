@@ -2,7 +2,7 @@
 
 This is a PHP web project that demonstrates how to build a simple product management website using:
 
-**PHP (with MySQLi)**
+- **PHP (with MySQLi)**
 - **MySQL Database**
 - **AMPPS** as a local development server
 - **Notepad++** as the code editor
